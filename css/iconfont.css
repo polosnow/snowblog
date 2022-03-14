@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3227760 */
-  src: url('//at.alicdn.com/t/font_3227760_wm9kn4oopd.woff2?t=1646706827501') format('woff2'),
-       url('//at.alicdn.com/t/font_3227760_wm9kn4oopd.woff?t=1646706827501') format('woff'),
-       url('//at.alicdn.com/t/font_3227760_wm9kn4oopd.ttf?t=1646706827501') format('truetype');
+  src: url('//at.alicdn.com/t/font_3227760_dbi14wmzvm.woff2?t=1647262553952') format('woff2'),
+       url('//at.alicdn.com/t/font_3227760_dbi14wmzvm.woff?t=1647262553952') format('woff'),
+       url('//at.alicdn.com/t/font_3227760_dbi14wmzvm.ttf?t=1647262553952') format('truetype');
 }
 
 .iconfont {
@@ -17,6 +17,10 @@
 		transform: rotate(180deg);
 		transition: 2s;
   }
+}
+
+.icon-weibo:before {
+  content: "\e6c4";
 }
 
 .icon-gitee:before {
