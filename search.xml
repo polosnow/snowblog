@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hexo博客|本平台安装美化笔记（二）之主题插件总结</title>
-      <link href="/zgyblog/2022/03/13/0313-%E4%B8%BB%E9%A2%98%E6%8F%92%E4%BB%B6%E6%80%BB%E7%BB%93/"/>
-      <url>/zgyblog/2022/03/13/0313-%E4%B8%BB%E9%A2%98%E6%8F%92%E4%BB%B6%E6%80%BB%E7%BB%93/</url>
+      <link href="/zgyblog/posts/833d770/"/>
+      <url>/zgyblog/posts/833d770/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script>]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>移动端访问</title>
-      <link href="/zgyblog/2022/03/13/0313-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%AE%BF%E9%97%AE/"/>
-      <url>/zgyblog/2022/03/13/0313-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%AE%BF%E9%97%AE/</url>
+      <link href="/zgyblog/posts/15438bb4/"/>
+      <url>/zgyblog/posts/15438bb4/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script>]]></content>
       
@@ -37,8 +37,8 @@
     
     <entry>
       <title>随笔</title>
-      <link href="/zgyblog/2022/03/10/%E9%9A%8F%E7%AC%94/"/>
-      <url>/zgyblog/2022/03/10/%E9%9A%8F%E7%AC%94/</url>
+      <link href="/zgyblog/posts/f77810a8/"/>
+      <url>/zgyblog/posts/f77810a8/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script>]]></content>
       
@@ -62,8 +62,8 @@
     
     <entry>
       <title>Hexo博客|本平台安装美化笔记（一）之快速开始</title>
-      <link href="/zgyblog/2022/03/10/%E6%9C%AC%E5%B9%B3%E5%8F%B0hexo%E4%B8%8Ebutterfly%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/"/>
-      <url>/zgyblog/2022/03/10/%E6%9C%AC%E5%B9%B3%E5%8F%B0hexo%E4%B8%8Ebutterfly%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</url>
+      <link href="/zgyblog/posts/ae0e1b12/"/>
+      <url>/zgyblog/posts/ae0e1b12/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><div class="note info flat"><p>本地的起步环境如下<br>Windows10专业版 21H2<br>node: 10.23.1<br>npm: 6.14.10<br>git: 2.13.0</p></div><div class="tabs" id="test"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test-1">1.安装测试以上环境</button></li><li class="tab"><button type="button" data-href="#test-2">2.安装hexo</button></li><li class="tab"><button type="button" data-href="#test-3">3.运行hexo</button></li><li class="tab"><button type="button" data-href="#test-4">4.butterfly主题安装</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test-1"><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#检测git</span><br><span class="line">git --version</span><br><span class="line">#检测node</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test-2"><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"># 通过npm安装hexo</span><br><span class="line">npm install -g hexo</span><br><span class="line"># 初始化创建，会在你所在位置创建 blog 文件夹</span><br><span class="line">hexo init blog</span><br><span class="line"># 进入 blog 目录</span><br><span class="line"><span class="built_in">cd</span> blog</span><br><span class="line"># 进一步安装hexo所需文件</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><p>参考链接<a href="https://kaiter-plus.gitee.io/2020/03/07/How_To_Freely_Build_Blog/">https://kaiter-plus.gitee.io/2020/03/07/How_To_Freely_Build_Blog/</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test-3"><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"># 清除所有记录</span><br><span class="line">hexo clean </span><br><span class="line"># 生成静态网页</span><br><span class="line">hexo generate</span><br><span class="line"># 启动服务</span><br><span class="line">hexo server</span><br><span class="line"># 以上可以由快捷命令代替</span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><p>参考链接<a href="https://kaiter-plus.gitee.io/2020/03/07/How_To_Freely_Build_Blog/">https://kaiter-plus.gitee.io/2020/03/07/How_To_Freely_Build_Blog/</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test-4"><p>hexo自带默认主题landscape<br>butterfly主题，请参考<a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="note info flat"><p>本地的最终环境如下<br>Windows10专业版 21H2<br>node: 10.23.1<br>npm: 6.14.10<br>git: 2.13.0<br>hexo: 5.4.1<br>butterfly: 4.1.0 </p></div><h2 id="hexo安装"><a href="#hexo安装" class="headerlink" title="hexo安装"></a>hexo安装</h2>]]></content>
       
@@ -87,8 +87,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/zgyblog/2022/03/08/hello-world/"/>
-      <url>/zgyblog/2022/03/08/hello-world/</url>
+      <link href="/zgyblog/posts/4a17b156/"/>
+      <url>/zgyblog/posts/4a17b156/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/2022/03/10/%E6%9C%AC%E5%B9%B3%E5%8F%B0hexo%E4%B8%8Ebutterfly%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://aylydzgy.gitee.io/zgyblog/run/index.html</loc>
     
     <lastmod>2022-03-17</lastmod>
     
@@ -11,7 +11,52 @@
   </url>
   
   <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/2022/03/13/0313-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%AE%BF%E9%97%AE/</loc>
+    <loc>https://aylydzgy.gitee.io/zgyblog/guitar/index.html</loc>
+    
+    <lastmod>2022-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/f77810a8/</loc>
+    
+    <lastmod>2022-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/ae0e1b12/</loc>
+    
+    <lastmod>2022-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/4a17b156/</loc>
+    
+    <lastmod>2022-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/15438bb4/</loc>
+    
+    <lastmod>2022-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/833d770/</loc>
     
     <lastmod>2022-03-17</lastmod>
     
@@ -21,15 +66,6 @@
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/gallery/index.html</loc>
-    
-    <lastmod>2022-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/2022/03/13/0313-%E4%B8%BB%E9%A2%98%E6%8F%92%E4%BB%B6%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2022-03-14</lastmod>
     
@@ -48,15 +84,6 @@
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/gallery/gallery-girls/index.html</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/2022/03/10/%E9%9A%8F%E7%AC%94/</loc>
     
     <lastmod>2022-03-11</lastmod>
     
@@ -104,15 +131,6 @@
     <loc>https://aylydzgy.gitee.io/zgyblog/link/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/2022/03/08/hello-world/</loc>
-    
-    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
