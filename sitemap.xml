@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/run/index.html</loc>
-    
-    <lastmod>2022-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/guitar/index.html</loc>
     
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/posts/f77810a8/</loc>
+    <loc>https://aylydzgy.gitee.io/zgyblog/run/index.html</loc>
     
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/posts/ae0e1b12/</loc>
+    
+    <lastmod>2022-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/f77810a8/</loc>
     
     <lastmod>2022-03-17</lastmod>
     
