@@ -4,11 +4,30 @@
   
     
     <entry>
+      <title>Hexo博客|本平台安装美化笔记（三）之美化总结</title>
+      <link href="/zgyblog/posts/db754e0f/"/>
+      <url>/zgyblog/posts/db754e0f/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script><h2 id="左上角天气"><a href="#左上角天气" class="headerlink" title="左上角天气"></a>左上角天气</h2><p>更新中…</p><h2 id="飘雪花"><a href="#飘雪花" class="headerlink" title="飘雪花"></a>飘雪花</h2><p>更新中…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> butterfly </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo博客|本平台安装美化笔记（二）之主题插件总结</title>
       <link href="/zgyblog/posts/833d770/"/>
       <url>/zgyblog/posts/833d770/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\zgyblog\css\APlayer.min.css"><script src="\zgyblog\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\zgyblog\js\Meting.min.js"></script><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo-"></a>hexo-</h2><p>解释：首页文章轮播插件</p><h2 id="hexo-1"><a href="#hexo-1" class="headerlink" title="hexo-"></a>hexo-</h2><p>解释：时钟插件</p><h2 id="hexo-2"><a href="#hexo-2" class="headerlink" title="hexo-"></a>hexo-</h2><p>解释：gitee贡献日历插件</p><h2 id="hexo-generator-sitemap"><a href="#hexo-generator-sitemap" class="headerlink" title="hexo-generator-sitemap"></a>hexo-generator-sitemap</h2><p>解释：生成站点地图</p>]]></content>
       
       
       <categories>
