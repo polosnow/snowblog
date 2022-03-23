@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/posts/b5c60cfd/</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/link/index.html</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/posts/ae0e1b12/</loc>
     
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -136,19 +154,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://aylydzgy.gitee.io/zgyblog/link/index.html</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,14 +165,21 @@
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/tags/butterfly/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/tags/%E5%85%B6%E5%AE%83/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/tags/python/</loc>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -172,14 +188,21 @@
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/categories/butterfly/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aylydzgy.gitee.io/zgyblog/categories/%E5%85%B6%E5%AE%83/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aylydzgy.gitee.io/zgyblog/categories/python/</loc>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
